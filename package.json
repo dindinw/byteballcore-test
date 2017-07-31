@@ -1,0 +1,25 @@
+{
+  "name": "byteballcore-test",
+  "description": "Test for Byteball Core",
+  "author": "dindinw@askcoin.org",
+  "version": "0.0.1",
+  "keywords": [
+    "byteball test"
+  ],
+  "homepage": "https://github.com/dindinw/byteballcore-test",
+  "license": "MIT",
+  "repository": {
+    "url": "git://github.com/dindinw/byteballcore-test.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com//byteballcore-test/issues"
+  },
+  "browser": {
+    "request": "browser-request",
+    "secp256k1": "secp256k1/js"
+  },
+  "dependencies": {
+	"byteballcore":"^0.2.51"
+  }
+}
