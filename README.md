@@ -1,7 +1,7 @@
 # byteballcore-test
 The test example for Byteball Core
 
-## How to run
+### How to run
 
 ```
 ./run.sh
