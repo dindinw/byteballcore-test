@@ -18,5 +18,8 @@ describe("byteballcore/object_hash.js", function() {
             assert.equal("CxK1luSnAk5+MaGyaE9wl26JdwAkSPFDqWJdYs9gRng=",object_hash.getBallHash("oj8yEksX9Ubq7lLc+p6F2uyHUuynugeVq4+ikT67X6E=",[],[],false));
         });
     });
+    describe("getChash160()",function() {
+
+    });
 });
 
